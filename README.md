@@ -1,2 +1,3 @@
 # ttycom
-Placeholder repo for the ttycom project
+
+Placeholder package. The `ttycom` name is reserved for a future project.
